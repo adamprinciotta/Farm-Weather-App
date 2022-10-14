@@ -1,0 +1,263 @@
+{
+    "plants": [{
+            "name": "bellpepper",
+            "mintemp": "55",
+            "maxtemp": "95",
+            "minbesttemp": "65",
+            "maxbesttemp": "80",
+            "minwater": "1",
+            "maxwater": "2"
+        },{
+            "name": "blueberry",
+            "mintemp": "-15",
+            "maxtemp": "86",
+            "minbesttemp": "68",
+            "maxbesttemp": "79",
+            "minwater": "1",
+            "maxwater": "2"
+        },
+         {
+            "name": "cucumber",
+            "mintemp": "60",
+            "maxtemp": "90",
+            "minbesttemp": "65",
+            "maxbesttemp": "75",
+            "minwater": "1",
+            "maxwater": "2"
+        },
+        {
+            "name": "grape",
+            "mintemp": "50",
+            "maxtemp": "95",
+            "minbesttemp": "77",
+            "maxbesttemp": "90",
+            "minwater": "4",
+            "maxwater": "7"
+        },
+        {
+            "name": "strawberry",
+            "mintemp": "22",
+            "maxtemp": "85",
+            "minbesttemp": "60",
+            "maxbesttemp": "80",
+            "minwater": "4",
+            "maxwater": "7"
+        },
+        {
+            "name": "tomato",
+            "mintemp": "55",
+            "maxtemp": "85",
+            "minbesttemp": "65",
+            "maxbesttemp": "85",
+            "minwater": "1",
+            "maxwater": "2"
+        },
+        {
+            "name": "carrots",
+            "mintemp": "50",
+            "maxtemp": "85",
+            "minbesttemp": "60",
+            "maxbesttemp": "70",
+            "minwater": "1",
+            "maxwater": "2"
+        },
+        {
+            "name": "peas",
+            "mintemp": "28",
+            "maxtemp": "70",
+            "minbesttemp": "55",
+            "maxbesttemp": "70",
+            "minwater": "1",
+            "maxwater": "2"
+        },
+        {
+            "name": "broccoli",
+            "mintemp": "26",
+            "maxtemp": "85",
+            "minbesttemp": "65",
+            "maxbesttemp": "80",
+            "minwater": "1",
+            "maxwater": "2"
+        },
+        {
+            "name": "lettuce",
+            "mintemp": "20",
+            "maxtemp": "85",
+            "minbesttemp": "60",
+            "maxbesttemp": "65",
+            "minwater": "5",
+            "maxwater": "7"
+        },
+        {
+            "name": "sweet potato",
+            "mintemp": "60",
+            "maxtemp": "100",
+            "minbesttemp": "65",
+            "maxbesttemp": "95",
+            "minwater": "1",
+            "maxwater": "2"
+        },
+        {
+            "name": "onion",
+            "mintemp": "55",
+            "maxtemp": "80",
+            "minbesttemp": "68",
+            "maxbesttemp": "77",
+            "minwater": "1",
+            "maxwater": "2"
+        },
+        {
+            "name": "eggplant",
+            "mintemp": "50",
+            "maxtemp": "95",
+            "minbesttemp": "70",
+            "maxbesttemp": "85",
+            "minwater": "1",
+            "maxwater": "2"
+        },
+        {
+            "name": "potato",
+            "mintemp": "50",
+            "maxtemp": "80",
+            "minbesttemp": "60",
+            "maxbesttemp": "70",
+            "minwater": "3",
+            "maxwater": "4"
+        },
+        {
+            "name": "spinach",
+            "mintemp": "40",
+            "maxtemp": "75",
+            "minbesttemp": "60",
+            "maxbesttemp": "65",
+            "minwater": "1",
+            "maxwater": "2"
+        },
+        {
+            "name": "mushrooms",
+            "mintemp": "60",
+            "maxtemp": "74",
+            "minbesttemp": "63",
+            "maxbesttemp": "68",
+            "minwater": "3",
+            "maxwater": "4"
+        },
+        {
+            "name": "radish",
+            "mintemp": "45",
+            "maxtemp": "70",
+            "minbesttemp": "50",
+            "maxbesttemp": "65",
+            "minwater": "1",
+            "maxwater": "1"
+        },
+        {
+            "name": "ginger",
+            "mintemp": "65",
+            "maxtemp": "85",
+            "minbesttemp": "70",
+            "maxbesttemp": "80",
+            "minwater": "1",
+            "maxwater": "1"
+        },
+        {
+            "name": "garlic",
+            "mintemp": "32",
+            "maxtemp": "50",
+            "minbesttemp": "35",
+            "maxbesttemp": "45",
+            "minwater": "0",
+            "maxwater": "1"
+        },
+        {
+            "name": "corn",
+            "mintemp": "50",
+            "maxtemp": "90",
+            "minbesttemp": "75",
+            "maxbesttemp": "86",
+            "minwater": "1",
+            "maxwater": "2"
+        },
+        {
+            "name": "artichoke",
+            "mintemp": "50",
+            "maxtemp": "80",
+            "minbesttemp": "60",
+            "maxbesttemp": "70",
+            "minwater": "1",
+            "maxwater": "3"
+        },
+        {
+            "name": "leek",
+            "mintemp": "50",
+            "maxtemp": "80",
+            "minbesttemp": "55",
+            "maxbesttemp": "75",
+            "minwater": "1",
+            "maxwater": "2"
+        },
+        {
+            "name": "cauliflower",
+            "mintemp": "50",
+            "maxtemp": "85",
+            "minbesttemp": "70",
+            "maxbesttemp": "80",
+            "minwater": "2",
+            "maxwater": "3"
+        },
+        {
+            "name": "cabbage",
+            "mintemp": "45",
+            "maxtemp": "80",
+            "minbesttemp": "60",
+            "maxbesttemp": "65",
+            "minwater": "2",
+            "maxwater": "3"
+        },
+        {
+            "name": "pumpkin",
+            "mintemp": "65",
+            "maxtemp": "85",
+            "minbesttemp": "70",
+            "maxbesttemp": "80",
+            "minwater": "1",
+            "maxwater": "2"
+        },
+        {
+            "name": "turnip",
+            "mintemp": "40",
+            "maxtemp": "75",
+            "minbesttemp": "50",
+            "maxbesttemp": "65",
+            "minwater": "2",
+            "maxwater": "3"
+        },
+        {
+            "name": "celery",
+            "mintemp": "40",
+            "maxtemp": "75",
+            "minbesttemp": "60",
+            "maxbesttemp": "70",
+            "minwater": "3",
+            "maxwater": "4"
+        },
+        {
+            "name": "rose",
+            "mintemp": "40",
+            "maxtemp": "60",
+            "minbesttemp": "45",
+            "maxbesttemp": "55",
+            "minwater": "2",
+            "maxwater": "3"
+        },
+        {
+            "name": "sunflower",
+            "mintemp": "55",
+            "maxtemp": "85",
+            "minbesttemp": "70",
+            "maxbesttemp": "78",
+            "minwater": "0",
+            "maxwater": "1"
+        }
+    ]
+}
